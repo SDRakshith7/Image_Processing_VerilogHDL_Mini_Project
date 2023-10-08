@@ -1,0 +1,4 @@
+
+1 Keep the input source image.jpg in the same folder as the Source file and the testbench 
+2 Use to coe_generator to generate image.coe using python
+3 Use the verilog read function to read the image using the image's file path
